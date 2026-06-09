@@ -1,0 +1,4 @@
+baseURL = 'https://blog.jaxsonruff.com'
+locale = 'en-us'
+title = 'My Blog'
+theme = 'hugo-blog-awesome'
